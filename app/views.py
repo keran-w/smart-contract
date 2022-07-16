@@ -1,0 +1,8 @@
+
+
+
+
+
+
+def index(request):
+    ...
